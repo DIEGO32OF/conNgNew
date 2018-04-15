@@ -22,10 +22,10 @@
         "styles.css"
       ],
       "scripts": [
-    ".src/app/assets/js/jquery.js",
-    ".src/appassets/bootstrap/bootstrap.min.js",
-    ".src/app/assets/js/jquery.easing.1.3.js",
-    ".src/app/assets/js/custom-scripts.js"
+    "./src/app/assets/js/jquery.js",
+    "./src/app/assets/bootstrap/bootstrap.min.js",
+    "./src/app/assets/js/jquery.easing.1.3.js",
+    "./src/app/assets/js/custom-scripts.js"
   ],
       "environmentSource": "environments/environment.ts",
       "environments": {
