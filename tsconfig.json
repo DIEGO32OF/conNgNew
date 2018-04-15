@@ -18,8 +18,8 @@
     ]
   },
    "files": [
-    "/src/app/app.module.ts",
-    "/src/main.ts"
+    "./src/app/app.module.ts",
+    "./src/main.ts"
   ],
    "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
