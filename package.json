@@ -30,8 +30,7 @@
     "npm": "5.6.0"
   },
   "private": true,
-  "dependencies": {
-    "hls.js": "git://github.com/dailymotion/hls.js#workerify",
+  "dependencies": {    
     "@angular/animations": "4.4.6",
     "@angular-devkit/core": "^0.5.6",
     "@angular/cli": "^1.6.0",
